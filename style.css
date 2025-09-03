@@ -1,0 +1,86 @@
+ .logo{
+            background-color: #F8F8F8;
+            width: 2000px;
+            margin: 0px;
+            height: fit-content;
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            padding: 20px;
+            }
+
+            .logo p{
+                margin-left: 50px; font-family: Arial, Helvetica, sans-serif;
+            }
+            .logo Button{
+               background-color: #F8F8F8;
+                color: rgb(0, 0, 0);
+                padding: 10px;
+                border-radius: 20px;
+                width: 130px;
+                height: 40px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                margin-left: 40px;
+            }
+        
+            .enmedio{
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 150px;
+                margin-left: 200px;
+            }
+            .enmedio Button{
+                background-color: #3A62FD;
+                color:#F8F8F8;
+                padding: 10px;
+                border: none;
+                border-radius: 20px;
+                width: 130px;
+                height: 40px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+            }
+            .foto1{
+                width: 100px;
+                margin-left: 700px;
+                margin-top: -400px;
+            }
+
+            .fila{
+                font-family: Arial, Helvetica, sans-serif; font-weight: bold;
+                margin-top: 5px;
+                margin-left: 300px;
+                display: flex;
+                justify-content: left;
+                align-items: center;
+            }
+
+            .fila Button{
+                background-color: #F8F8F8;
+                color: rgb(0, 0, 0);
+                padding: 10px;
+                border-radius: 20px;
+                width: 130px;
+                height: 40px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
+            .fotosvarias{
+                width: 50px;
+                height: 200px;
+                margin-top: 200px;
+                display: flex;
+                justify-content: left;
+                align-items: center;
+            }
+
+            .fototos{
+                width: 50px;
+                height: 200px;
+                margin-top: 300px;
+                display: flex;
+                justify-content: left;
+                align-items: center;
+            }
